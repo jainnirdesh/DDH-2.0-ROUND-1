@@ -129,7 +129,7 @@ Our structured approach follows a **real-world analytics roadmap**:
 - **Name:** Kazi Shabnam Ali  
   **Roll No.:** 2301420047  
   **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
-  **LinkedIn:** [Kazi Shabnam Ali](www.linkedin.com/in/shabnam-ali-876149306)
+  **LinkedIn:** [Kazi Shabnam Ali](https://www.linkedin.com/in/shabnam-ali-876149306)
 
 - **Name:** Sushant Verma  
   **Roll No.:** 2301420015  
