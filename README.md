@@ -123,7 +123,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Loading, cleaning, and preprocessing the dataset  
   - Performing **exploratory data analysis (EDA)** and generating key insights  
   - Developing **Python scripts and Jupyter Notebook** for reproducible analysis  
-  **LinkedIn:** [Nirdesh Jain](https://www.linkedin.com/in/nirdesh-jain)
+  **LinkedIn:** [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 
 - **Name:** Shreya Narayanan 
   **Roll No.:** 2301201106  
@@ -132,7 +132,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Conducting **domain research** on climate change, renewable energy, and environmental policies  
   - Providing context for the dataset and **interpreting trends** for actionable insights  
   - Assisting in formulating **EDA questions and policy recommendations**  
-  **LinkedIn:** [Shreya Narayanan](https://www.linkedin.com/in/member2)
+  **LinkedIn:** [Shreya Narayanan](https://www.linkedin.com/in/shreyaanarayanann/)
 
 - **Name:** Kazi Shabnam Ali  
   **Roll No.:** 2301420047
@@ -150,7 +150,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Translating analysis into **policy proposals and recommendations**  
   - Designing the **final presentation slides** highlighting insights and solutions  
   - Ensuring findings are **actionable, clear, and suitable for stakeholders**  
-  **LinkedIn:** [Sushant Verma](https://www.linkedin.com/in/member4)
+  **LinkedIn:** [Sushant Verma](https://www.linkedin.com/in/sushantverma2005/)
 ---
 
 ## 📜 License
