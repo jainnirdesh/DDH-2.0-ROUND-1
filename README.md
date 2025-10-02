@@ -116,30 +116,41 @@ Our structured approach follows a **real-world analytics roadmap**:
 
 ## 👨‍💻 Team
 
-- **Member 1 – Data Analyst & Python Developer**  
-  - Responsible for **loading, cleaning, and preprocessing the dataset**.  
-  - Performed **exploratory data analysis (EDA)** and generated key insights.  
-  - Developed **Python scripts and Jupyter Notebook** for reproducible analysis.  
-  - LinkedIn: [Member1 LinkedIn](https://www.linkedin.com/in/member1)
+- **Name:** Nirdesh Jain  
+  **Roll No.:** 2301420025 
+  **Course & Year:** B.Tech CSE (Data Science), 3rd Year    
+  **Responsibilities:**  
+  - Loading, cleaning, and preprocessing the dataset  
+  - Performing **exploratory data analysis (EDA)** and generating key insights  
+  - Developing **Python scripts and Jupyter Notebook** for reproducible analysis  
+  **LinkedIn:** [Nirdesh Jain](https://www.linkedin.com/in/nirdesh-jain)
 
-- **Member 2 – Climate Research Specialist**  
-  - Conducted **domain research** on climate change, renewable energy, and environmental policies.  
-  - Provided context for the dataset and **interpreted trends** for actionable insights.  
-  - Assisted in formulating **EDA questions and policy recommendations**.  
-  - LinkedIn: [Member2 LinkedIn](https://www.linkedin.com/in/member2)
+- **Name:** Shreya Narayanan 
+  **Roll No.:** 2301201106  
+  **Course & Year:** BCA (AI & DS), 3rd Year  
+  **Responsibilities:**  
+  - Conducting **domain research** on climate change, renewable energy, and environmental policies  
+  - Providing context for the dataset and **interpreting trends** for actionable insights  
+  - Assisting in formulating **EDA questions and policy recommendations**  
+  **LinkedIn:** [Member2 LinkedIn](https://www.linkedin.com/in/member2)
 
-- **Member 3 – Visualization & Dashboard Expert**  
-  - Designed **interactive dashboards** using Streamlit / Power BI / Tableau.  
-  - Created **charts, graphs, and visual storytelling** to communicate findings effectively.  
-  - Ensured the dashboard is **user-friendly and ready for policymakers**.  
-  - LinkedIn: [Member3 LinkedIn](https://www.linkedin.com/in/member3)
+- **Name:** Kazi Shabnam Ali  
+  **Roll No.:** 2301420047
+  **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
+  **Responsibilities:**  
+  - Designing **interactive dashboards** using Streamlit / Power BI / Tableau  
+  - Creating **charts, graphs, and visual storytelling** to communicate findings effectively  
+  - Ensuring dashboards are **user-friendly and ready for policymakers**  
+  **LinkedIn:** [Member3 LinkedIn](https://www.linkedin.com/in/member3)
 
-- **Member 4 – Presentation & Policy Consultant**  
-  - Translated analysis into **policy proposals and recommendations**.  
-  - Designed the **final presentation slides** highlighting insights and solutions.  
-  - Ensured findings are **actionable, clear, and suitable for stakeholders**.  
-  - LinkedIn: [Member4 LinkedIn](https://www.linkedin.com/in/member4)
-
+- **Name:** Sushant Verma  
+  **Roll No.:** 2301420015
+  **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
+  **Responsibilities:**  
+  - Translating analysis into **policy proposals and recommendations**  
+  - Designing the **final presentation slides** highlighting insights and solutions  
+  - Ensuring findings are **actionable, clear, and suitable for stakeholders**  
+  **LinkedIn:** [Member4 LinkedIn](https://www.linkedin.com/in/member4)
 ---
 
 ## 📜 License
