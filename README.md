@@ -116,9 +116,9 @@ Our structured approach follows a **real-world analytics roadmap**:
 
 ## 👨‍💻 Team
 
-- **Name:** Nirdesh Jain  
-  **Roll No.:** 2301420025 
-  **Course & Year:** B.Tech CSE (Data Science), 3rd Year    
+- **Name:** Nirdesh Jain
+  **Roll No.:** 2301420025
+  **Course & Year:** B.Tech CSE (Data Science), 3rd Year
   **Responsibilities:**  
   - Loading, cleaning, and preprocessing the dataset  
   - Performing **exploratory data analysis (EDA)** and generating key insights  
