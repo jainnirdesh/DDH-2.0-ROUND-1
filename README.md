@@ -132,7 +132,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Conducting **domain research** on climate change, renewable energy, and environmental policies  
   - Providing context for the dataset and **interpreting trends** for actionable insights  
   - Assisting in formulating **EDA questions and policy recommendations**  
-  **LinkedIn:** [Member2 LinkedIn](https://www.linkedin.com/in/member2)
+  **LinkedIn:** [Shreya Narayanan](https://www.linkedin.com/in/member2)
 
 - **Name:** Kazi Shabnam Ali  
   **Roll No.:** 2301420047
@@ -141,7 +141,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Designing **interactive dashboards** using Streamlit / Power BI / Tableau  
   - Creating **charts, graphs, and visual storytelling** to communicate findings effectively  
   - Ensuring dashboards are **user-friendly and ready for policymakers**  
-  **LinkedIn:** [Member3 LinkedIn](https://www.linkedin.com/in/member3)
+  **LinkedIn:** [Kazi Shabnam Ali](https://www.linkedin.com/in/member3)
 
 - **Name:** Sushant Verma  
   **Roll No.:** 2301420015
@@ -150,7 +150,7 @@ Our structured approach follows a **real-world analytics roadmap**:
   - Translating analysis into **policy proposals and recommendations**  
   - Designing the **final presentation slides** highlighting insights and solutions  
   - Ensuring findings are **actionable, clear, and suitable for stakeholders**  
-  **LinkedIn:** [Member4 LinkedIn](https://www.linkedin.com/in/member4)
+  **LinkedIn:** [Sushant Verma](https://www.linkedin.com/in/member4)
 ---
 
 ## 📜 License
