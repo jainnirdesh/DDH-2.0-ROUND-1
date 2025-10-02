@@ -118,42 +118,22 @@ Our structured approach follows a **real-world analytics roadmap**:
 
 - **Name:** Nirdesh Jain  
   **Roll No.:** 2301420025  
-  **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
-  **Role:** Data Analyst & Python Developer  
-  **Responsibilities:**  
-    - Loading, cleaning, and preprocessing the dataset  
-    - Performing **exploratory data analysis (EDA)** and generating key insights  
-    - Developing **Python scripts and Jupyter Notebook** for reproducible analysis  
+  **Course & Year:** B.Tech CSE (Data Science), 3rd Year     
   **LinkedIn:** [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 
 - **Name:** Shreya Narayanan  
   **Roll No.:** 2301201106  
   **Course & Year:** BCA (AI & DS), 3rd Year  
-  **Role:** Climate Research Specialist  
-  **Responsibilities:**  
-    - Conducting **domain research** on climate change, renewable energy, and environmental policies  
-    - Providing context for the dataset and **interpreting trends** for actionable insights  
-    - Assisting in formulating **EDA questions and policy recommendations**  
   **LinkedIn:** [Shreya Narayanan](https://www.linkedin.com/in/shreyaanarayanann/)
 
 - **Name:** Kazi Shabnam Ali  
   **Roll No.:** 2301420047  
   **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
-  **Role:** Visualization & Dashboard Expert  
-  **Responsibilities:**  
-    - Designing **interactive dashboards** using Streamlit / Power BI / Tableau  
-    - Creating **charts, graphs, and visual storytelling** to communicate findings effectively  
-    - Ensuring dashboards are **user-friendly and ready for policymakers**  
   **LinkedIn:** [Kazi Shabnam Ali](www.linkedin.com/in/shabnam-ali-876149306)
 
 - **Name:** Sushant Verma  
   **Roll No.:** 2301420015  
   **Course & Year:** B.Tech CSE (Data Science), 3rd Year  
-  **Role:** Presentation & Policy Consultant  
-  **Responsibilities:**  
-    - Translating analysis into **policy proposals and recommendations**  
-    - Designing the **final presentation slides** highlighting insights and solutions  
-    - Ensuring findings are **actionable, clear, and suitable for stakeholders**  
   **LinkedIn:** [Sushant Verma](https://www.linkedin.com/in/sushantverma2005/)
 ---
 
