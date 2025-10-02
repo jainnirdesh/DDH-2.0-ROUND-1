@@ -144,7 +144,7 @@ Our structured approach follows a **real-world analytics roadmap**:
     - Designing **interactive dashboards** using Streamlit / Power BI / Tableau  
     - Creating **charts, graphs, and visual storytelling** to communicate findings effectively  
     - Ensuring dashboards are **user-friendly and ready for policymakers**  
-  **LinkedIn:** [Kazi Shabnam Ali](https://www.linkedin.com/in/member3)
+  **LinkedIn:** [Kazi Shabnam Ali](www.linkedin.com/in/shabnam-ali-876149306)
 
 - **Name:** Sushant Verma  
   **Roll No.:** 2301420015  
