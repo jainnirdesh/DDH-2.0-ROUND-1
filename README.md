@@ -1,4 +1,4 @@
-# 🌍 DeepData Hackathon 2025 – Climate Change Analysis
+# 🌍 DeepData Hackathon 2025
 
 This repository contains our submission for the **DeepData Hackathon 2025**, focused on analyzing **global climate change data** to generate actionable insights for policymakers.  
 
